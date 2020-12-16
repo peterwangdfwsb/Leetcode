@@ -1,2 +1,2 @@
 # Leetcode
-![Alt text](relative/path/to/leetcode.png?raw=true "Title")
+![Alt text](./leetcode.png?raw=true "leetcode")
